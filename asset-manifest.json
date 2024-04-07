@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KitPlays/static/css/main.759acb3f.css",
+    "main.js": "/KitPlays/static/js/main.a30caffe.js",
+    "static/js/453.c6fcf508.chunk.js": "/KitPlays/static/js/453.c6fcf508.chunk.js",
+    "index.html": "/KitPlays/index.html",
+    "main.759acb3f.css.map": "/KitPlays/static/css/main.759acb3f.css.map",
+    "main.a30caffe.js.map": "/KitPlays/static/js/main.a30caffe.js.map",
+    "453.c6fcf508.chunk.js.map": "/KitPlays/static/js/453.c6fcf508.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.759acb3f.css",
+    "static/js/main.a30caffe.js"
+  ]
+}
